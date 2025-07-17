@@ -71,7 +71,7 @@ make clean
 
 The `rationalCalcServer` project relies on the following external repositories and tools:
 
-- **[RationalSystem](https://github.com/<user>/RationalSystem)**: Provides the `Rational` class and `calculator_main.cpp` for rational number arithmetic and comparison operations. Licensed under the MIT License.
+- **[RationalSystem](https://github.com/Socrad/RationalSystem)**: Provides the `Rational` class and `calculator_main.cpp` for rational number arithmetic and comparison operations. Licensed under the MIT License.
 - **[MCP Go SDK](https://pkg.go.dev/github.com/modelcontextprotocol/go-sdk/mcp)**: Implements the Model Context Protocol (MCP) server to expose `calculator_main.cpp` operations as tools for LLM clients. Licensed under the MIT License.
 - **Go**: Requires Go 1.18 or higher for building the MCP server.
 - **C++17 Compiler**: Requires a C++17-compatible compiler (e.g., GCC, Clang) to build the `rational_calculator` executable.
