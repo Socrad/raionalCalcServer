@@ -1,0 +1,17 @@
+# Binaries
+RationalSystem/rational_calculator
+server/rational_calculator
+server/mcp_server
+
+# Go
+*.exe
+*.dll
+*.so
+*.dylib
+
+# VS Code
+.vscode/
+
+# Submodules
+# If you want to ignore the submodule's content, but keep the submodule reference
+# RationalSystem/
