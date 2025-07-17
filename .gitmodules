@@ -1,0 +1,3 @@
+[submodule "RationalSystem"]
+	path = RationalSystem
+	url = https://github.com/Socrad/RationalSystem.git
